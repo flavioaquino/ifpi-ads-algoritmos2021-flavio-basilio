@@ -3,7 +3,7 @@
 const prompt = require('prompt-sync')();
 
 
-function main(){
+function main(){ // Variáveis
     var n_pessoas = 100
     var Masculino = 0
     var Feminino = 0
@@ -18,7 +18,8 @@ function main(){
     var Viúva = 0
     var IdadeH = 0
     var IdadeM = 0
-    while(n_pessoas != 0){
+    
+    while(n_pessoas != 0){ // Recebimento das informações e verificações de condições 
         var gen = prompt("Qual o seu sexo?: ")
         var age = Number(prompt("Qual a sua idade?: "))
         var cs = prompt("Qual o seu estado civil?: ")
@@ -53,6 +54,7 @@ function main(){
             console.log("Dado inválido!")}
         n_pessoas--
     }
+    // Cálculos Finais e Retorno
     var mediaM = IdadeM/Feminino
     var mediaH = IdadeH/Masculino
     var perc_homens_solteiros = (Solteiro*Masculino)/100
