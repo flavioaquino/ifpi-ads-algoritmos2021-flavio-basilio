@@ -1,0 +1,11 @@
+Instituto Federal do Piauí
+Avaliação de Algoritmo e Programação (respostas)
+Atividade de Individual – "Semestral" - 12 de Julho de 2021 - Flávio Basílio de Aquino Ferreira
+
+1. a) Pensamento computacional é uma estratégia utilizada para encontrar soluções e resolver problemas através da tecnologia da forma mais eficaz possível.
+
+b) Algoritmo é uma sequência de instruções que tem como função alcançar um objetivo específico através de uma forma organizada.
+
+c) Programação é o ato de criação e manutenção de programas de computador.
+
+d) É o ato de dividir um algoritmo em partes que possam executar tarefas específicas, visando várias vantagens como a reutilização de um código sem a necessidade de reescrevê-lo e possibilitar uma maior organização do mesmo.
